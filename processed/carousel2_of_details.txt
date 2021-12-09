@@ -1,0 +1,13 @@
+Input:C:\Users\REDMI\Desktop\Pruebas\faceAPI\uploads\carousel2.jpg
+Input full path:C:\Users\REDMI\Desktop\Pruebas\faceAPI\uploads\carousel2.jpg
+Camera parameters:967.318,967.318,655.5,437
+Output HOG:carousel2.hog
+Output image:carousel2.jpg
+Output aligned directory:carousel2_aligned
+Output csv:carousel2.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
